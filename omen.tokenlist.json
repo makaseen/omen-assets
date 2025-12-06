@@ -1,0 +1,20 @@
+{
+  "name": "OMEN",
+  "symbol": "OMEN",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "8oNqYn9LNsoRvUWmZjqy3HrBms8Q8kuFiywfEHtvqT1x",
+      "symbol": "OMEN",
+      "name": "OMEN",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/makaseen/omen-assets/main/omen.png",
+      "extensions": {
+        "description": "OMEN is a symbolic digital asset exploring the intersection of intuition, probability, decision-making and collective behavior within decentralized environments.",
+        "website": "",
+        "twitter": "",
+        "telegram": ""
+      }
+    }
+  ]
+}
