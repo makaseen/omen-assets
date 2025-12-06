@@ -107,8 +107,6 @@ The assets are compatible with:
 ]
 }
 
-yaml
-Copy code
 
 ---
 
