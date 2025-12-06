@@ -1,4 +1,4 @@
-# OMEN — Micro Whitepaper
+# OMEN
 
 **Version 1.0 — December 2025**
 
